@@ -1,4 +1,4 @@
-# SelfDrivingRobot Proximity-Sensor Robot
+# SelfDrivingRobot Proximity-Sensor Robot [Artificial Intelligence]
 This repository contains the code and instructions for training a robot with 6 proximity sensors to navigate an environment and reach a goal without hitting any walls or objects. The robot's movement is controlled by a neural network, which achieves an accuracy of over 98%. This project includes a video that demonstrates the robot's performance after training.
 
 ## Table of Contents
